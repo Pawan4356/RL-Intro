@@ -207,7 +207,7 @@ Goal → Learn to reach **G** safely avoiding the **cliff**.
 
 ### References
 
-* [Reinforcement Learning INtro.](https://youtu.be/zdIQkjtFX-> I?si=wopo4Ia7e6D3ivAy)
+* [Reinforcement Learning INtro.](https://youtu.be/zdIQkjtFX_I?si=slQA3ODrVy3v_Rp9)
 * [How do RL Agents Learn?](https://youtu.be/DLcBjo5gIxs?si=0M8ou1fs68wfHBWr)
 * [How to Train your first RL Agent.](https://youtu.be/tbpBW5Yr44k?si=kI7AVOrtPD7VGacZ)
 * [Gymnasium Documentation](https://gymnasium.farama.org/)
