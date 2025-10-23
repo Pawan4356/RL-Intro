@@ -148,7 +148,7 @@ venv\Scripts\activate
 ```bash
 pip install numpy opencv-python gymnasium pygame
 ```
-
+If it doesn't works, use requirements.txt. It has some extra libraries in it. And if still facing the problem, do dome tweeking...
 
 
 ## How to Run Each Program
