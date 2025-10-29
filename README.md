@@ -18,7 +18,7 @@ Every Reinforcement Learning (RL) problem consists of:
 #### **3. Key RL Components**
 
 | Concept        | Description                        |
-| -- | - |
+| -- | -- |
 | **Policy (π)** | Strategy mapping states to actions |
 | **Value (V)**  | Expected long-term reward          |
 | **Model**      | Predicts environment behavior      |
@@ -56,7 +56,7 @@ Formal framework for RL, defined by **(S, A, P, R, γ)**:
 ### **RL Approaches**
 
 | Type            | Description                      | Examples                           |
-|  | -- | - |
+| -- | -- | -- |
 | **Model-Based** | Uses or learns environment model | Dynamic Programming, Dyna-Q        |
 | **Model-Free**  | Learns directly from experience  | Monte Carlo, TD, SARSA, Q-Learning |
 
